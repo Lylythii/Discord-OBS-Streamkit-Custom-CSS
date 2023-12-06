@@ -1,0 +1,21 @@
+
+[class="Status_statusContainer__tUiFo"] {
+    /* Add a cute little Slvt Oneko bc :D */
+    background-image: 
+        url(https://cdn.discordapp.com/emojis/1154371954451693568.gif?size=96&quality=lossless);
+    padding: 1rem;
+	border-style: solid;
+	border-width: 0.2rem;
+	border-color: linear-gradient(to right, rgb(255, 0, 200), rgb(140, 0, 255), rgb(168, 121, 255) rgb(255, 121, 177));
+}
+
+[class="Status_status__Vj7gE"] {
+    /* Doesn't work for whatever reason. */
+    background-image: url();
+    /* Just shove it off screen. */
+    background-position: 0px 0px; /* Default: 267px 17px */
+    background-repeat: no-repeat;
+    background-size: 32px 30px;
+    font-family: gg sans;
+    padding: 0px; /* Default: 14px */
+}
